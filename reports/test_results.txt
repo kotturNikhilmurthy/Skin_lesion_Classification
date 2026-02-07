@@ -1,0 +1,9 @@
+                      precision    recall  f1-score   support
+
+            melanoma     0.7519    0.6467    0.6953       150
+basal_cell_carcinoma     0.7848    0.8267    0.8052       150
+              benign     0.6380    0.6933    0.6645       150
+
+            accuracy                         0.7222       450
+           macro avg     0.7249    0.7222    0.7217       450
+        weighted avg     0.7249    0.7222    0.7217       450

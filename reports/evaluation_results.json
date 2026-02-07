@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.88,
+    "classification_report": "                      precision    recall  f1-score   support\n\n            melanoma     0.8609    0.8667    0.8638       150\nbasal_cell_carcinoma     0.9276    0.9400    0.9338       150\n              benign     0.8503    0.8333    0.8418       150\n\n            accuracy                         0.8800       450\n           macro avg     0.8796    0.8800    0.8798       450\n        weighted avg     0.8796    0.8800    0.8798       450\n",
+    "per_class_accuracy": {
+        "melanoma": 0.8666666666666667,
+        "basal_cell_carcinoma": 0.94,
+        "benign": 0.8333333333333334
+    }
+}
